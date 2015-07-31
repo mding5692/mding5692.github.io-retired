@@ -2,7 +2,7 @@ html,body {
 	color: #fff;
 	background-color: #9b59b6;
 }
-.navbar-fixed {
+nav {
 	background-color: #e67e22;
 }
 .brand-logo {
@@ -13,6 +13,12 @@ footer.page-footer {
 }
 .landing {
 	margin-top: 1em;
+	background-color: #e67e22;
+	text-align: center;
+	padding: .5em;
+}
+.nav-link {
+	margin-top: 2em;
 	background-color: #e67e22;
 	text-align: center;
 	padding: .5em;
