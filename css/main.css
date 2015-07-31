@@ -16,10 +16,25 @@ footer.page-footer {
 	background-color: #e67e22;
 	text-align: center;
 	padding: .5em;
+	-ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
 }
-.nav-link {
+.nav-link-orange {
 	margin-top: 2em;
 	background-color: #e67e22;
 	text-align: center;
 	padding: .5em;
+	-ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
+}
+.nav-link-purple {
+	margin-top: 2em;
+	background-color: #8e44ad;
+	text-align: center;
+	padding: .5em;
+	-ms-transform: rotate(-7deg); /* IE 9 */
+    -webkit-transform: rotate(-7deg); /* Chrome, Safari, Opera */
+    transform: rotate(-7deg);
 }
