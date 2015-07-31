@@ -2,8 +2,18 @@ html,body {
 	color: #fff;
 	background-color: #9b59b6;
 }
+.navbar-fixed {
+	background-color: #e67e22;
+}
+.brand-logo {
+	margin-left: 1em;
+}
 footer.page-footer {
 	background-color: #e67e22;
-	margin-left: 3em;
-	margin-right: 3em;
+}
+.landing {
+	margin-top: 1em;
+	background-color: #e67e22;
+	text-align: center;
+	padding: .5em;
 }
