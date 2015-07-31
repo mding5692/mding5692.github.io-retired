@@ -1,0 +1,9 @@
+html,body {
+	color: #fff;
+	background-color: #9b59b6;
+}
+footer.page-footer {
+	background-color: #e67e22;
+	margin-left: 3em;
+	margin-right: 3em;
+}
