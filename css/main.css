@@ -1,6 +1,7 @@
 html,body {
 	color: #fff;
 	background-color: #9b59b6;
+	font-family: 'Ubuntu', serif;
 }
 nav {
 	background-color: #e67e22;
@@ -11,6 +12,7 @@ nav {
 footer.page-footer {
 	background-color: #e67e22;
 }
+
 .landing {
 	margin-top: 1em;
 	background-color: #e67e22;
