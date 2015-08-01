@@ -1,0 +1,42 @@
+html,body {
+	color: #fff;
+	background-color: #9b59b6;
+	font-family: 'Josefin Slab', sans-serif;
+}
+nav {
+	background-color: #e67e22;
+}
+.brand-logo {
+	margin-left: 1em;
+}
+footer.page-footer {
+	background-color: #e67e22;
+}
+
+.landing {
+	margin-top: 1em;
+	background-color: #e67e22;
+	text-align: center;
+	padding: .5em;
+	-ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
+}
+.nav-link-orange {
+	margin-top: 5em;
+	background-color: #e67e22;
+	text-align: center;
+	padding: .5em;
+	-ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
+}
+.nav-link-purple {
+	margin-top: 5em;
+	background-color: #8e44ad;
+	text-align: center;
+	padding: .5em;
+	-ms-transform: rotate(-7deg); /* IE 9 */
+    -webkit-transform: rotate(-7deg); /* Chrome, Safari, Opera */
+    transform: rotate(-7deg);
+}

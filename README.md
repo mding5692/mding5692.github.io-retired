@@ -1,2 +1,2 @@
-# hack-western-prototype
-Non-functional prototype of Hack Western Website
+
+My personal website made with the Materialize Frontend Framework and some JQuery
