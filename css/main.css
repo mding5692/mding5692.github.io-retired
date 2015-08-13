@@ -6,6 +6,9 @@ html,body {
 nav {
 	background-color: #e67e22;
 }
+a {
+	color: #fff;
+}
 .brand-logo {
 	margin-left: 1em;
 }
